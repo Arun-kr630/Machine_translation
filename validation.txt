@@ -1,0 +1,150 @@
+---------------------------------------------------------------------------------------------
+Processing Epoch 05: 100%|███████████████████| 3638/3638 [16:58<00:00,  3.57it/s, loss=4.270]
+---------------------------------------------------------------------------------------------
+    SOURCE: Her face beamed with a joy and animation she could not repress.
+    TARGET: E un’irrefrenabile gioia e animazione le illuminarono il viso.
+ PREDICTED: Il viso di un ’ espressione di gioia e di gioia non poté .
+---------------------------------------------------------------------------------------------
+    SOURCE: "They're coming, ma'am," was the answer.
+    TARGET: — Vengono, signora.
+ PREDICTED: — , — rispose .
+---------------------------------------------------------------------------------------------
+Processing Epoch 06: 100%|███████████████████| 3638/3638 [16:57<00:00,  3.58it/s, loss=3.656]
+---------------------------------------------------------------------------------------------
+    SOURCE: 'Soo--oop of the e--e--evening, Beautiful, beautiful Soup!'
+    TARGET: Zuppa cara, bella bella bella zuppa!
+ PREDICTED: — Ehi , ahi , cara , la sera , la sera , la bella casa !
+---------------------------------------------------------------------------------------------
+    SOURCE: However, everything is queer to-day.'
+    TARGET: Ma tutto è straordinario oggi!
+ PREDICTED: Ma tutto questo è così strano .
+---------------------------------------------------------------------------------------------
+Processing Epoch 07: 100%|███████████████████| 3638/3638 [16:53<00:00,  3.59it/s, loss=3.929]
+---------------------------------------------------------------------------------------------
+    SOURCE: If he had never heard people talk of love, he would never have wanted that word.
+    TARGET: Se non avesse sentito dire che esiste l’amore, non avrebbe neanche mai usato questa parola.
+ PREDICTED: Se egli non avesse mai sentito parlare di loro , egli non avrebbe potuto nulla .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'How could he help being glad?
+    TARGET: — E come non esser contento!
+ PREDICTED: — Come mai si può fare ?
+---------------------------------------------------------------------------------------------
+Processing Epoch 08: 100%|███████████████████| 3638/3638 [16:58<00:00,  3.57it/s, loss=3.931]
+---------------------------------------------------------------------------------------------
+    SOURCE: All my former dreams of a family life were nonsense – not the right thing.
+    TARGET: Tutti i miei precedenti sogni sulla vita familiare non rispondono a questo.
+ PREDICTED: Tutte le mie idee erano un uomo di vita , che non avevano ragione di una vita , non avevano ragione .
+---------------------------------------------------------------------------------------------
+    SOURCE: There must have been a boat attached to that tow-line at some time or other, that was certain; but what had become of it, what ghastly fate had overtaken it, and those who had been left in it, was buried in mystery.
+    TARGET: Ci doveva essere stata in qualche momento una barca attaccata a quel cavo, questo era certo; ma che fosse successo della barca, qual triste destino l’avesse raggiunta con quelli che erano stati abbandonati dentro, era impossibile dire.
+ PREDICTED: Bisognava essere una barca a un ’ altra barca per fare un ’ altra volta che , o che , secondo l ’ altra , era stato , e che , , si era , si era in modo che non si fosse trovato in modo .
+---------------------------------------------------------------------------------------------
+Processing Epoch 09: 100%|███████████████████| 3638/3638 [17:01<00:00,  3.56it/s, loss=4.124]
+---------------------------------------------------------------------------------------------
+    SOURCE: Kitty brightened up with a smile.
+    TARGET: Kitty si illuminò d’un sorriso.
+ PREDICTED: Kitty si alzò con un sorriso .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'Varenka, forgive me, forgive me!' whispered Kitty, coming close to her. 'I don't remember what I said.'
+    TARGET: — Varen’ka, perdonatemi, perdonate! — sussurrò Kitty, avvicinandosi a lei. — Io non mi ricordo quello che ho detto. Io....
+ PREDICTED: — Varen ’ ka , perdonatemi , perdonatemi — mormorò Kitty , avvicinandosi a lei . — Non capisco quello che non ho detto .
+---------------------------------------------------------------------------------------------
+Processing Epoch 10: 100%|███████████████████| 3638/3638 [16:56<00:00,  3.58it/s, loss=3.657]
+---------------------------------------------------------------------------------------------
+    SOURCE: "Give the tray to me; I will carry it in."
+    TARGET: — Datemi il vassoio, lo porterò io.
+ PREDICTED: — Datemi un vassoio , e lo farò .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'How dreadfully savage!' exclaimed Alice.
+    TARGET: — Feroce! — esclamò Alice.
+ PREDICTED: — Come un selvaggio ! — esclamò Alice .
+---------------------------------------------------------------------------------------------
+Processing Epoch 11: 100%|███████████████████| 3638/3638 [16:54<00:00,  3.59it/s, loss=2.503]
+---------------------------------------------------------------------------------------------
+    SOURCE: He never omitted the ceremony afterwards, and the gravity and quiescence with which I underwent it, seemed to invest it for him with a certain charm.
+    TARGET: Da quel giorno non dimenticò mai di baciarmi e la gravità e la calma con cui accoglievo quella fredda dimostrazione di affetto pareva che avessero per lui un certo fascino.
+ PREDICTED: Egli non mi avvertiva neppure la lettura e la signorina Ingram mi pareva che un sentimento poco , mi pareva che un fascino fascino suo .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'No, I am just going.'
+    TARGET: — No, parto subito.
+ PREDICTED: — No , sono venuto .
+---------------------------------------------------------------------------------------------
+Processing Epoch 12: 100%|███████████████████| 3638/3638 [16:56<00:00,  3.58it/s, loss=3.080]
+---------------------------------------------------------------------------------------------
+    SOURCE: 'I never believed it!'
+    TARGET: — Non ci ho mai creduto.
+ PREDICTED: — Non mi aspettavo nulla .
+---------------------------------------------------------------------------------------------
+    SOURCE: "I thought I could have done some good."
+    TARGET: — Speravo di far bene.
+ PREDICTED: — Credevo che potesse essere buona .
+---------------------------------------------------------------------------------------------
+Processing Epoch 13: 100%|███████████████████| 3638/3638 [16:57<00:00,  3.58it/s, loss=3.603]
+---------------------------------------------------------------------------------------------
+    SOURCE: "I should indeed like to go to school," was the audible conclusion of my musings.
+    TARGET: — Come sarei contenta di andare in pensione! — risposi senza più esitare.
+ PREDICTED: — Vorrei che andare a Morton , — disse il mio pensiero .
+---------------------------------------------------------------------------------------------
+    SOURCE: He could hear only the distant soft voice of the Marshal, then the shrill voice of the venomous nobleman, and then Sviyazhsky's voice.
+    TARGET: Sentiva soltanto la voce morbida, suadente del maresciallo, poi quella stridula del nobile velenoso e poi la voce di Svijazskij.
+ PREDICTED: Egli poté capire solo che in un momento di voci , una voce bassa , il maresciallo del colonnello moscovita , e poi la voce di Svijazskij lo .
+---------------------------------------------------------------------------------------------
+Processing Epoch 14: 100%|███████████████████| 3638/3638 [16:55<00:00,  3.58it/s, loss=2.809]
+---------------------------------------------------------------------------------------------
+    SOURCE: 'You want to have a try at her?' was what Matthew meant, but he only said: 'Yes, sir.'
+    TARGET: “Volete provare” pensò Matvej, ma disse solo: — Sissignore.
+ PREDICTED: — Voi dovete far di la sua confessione ? — disse Matvej , ma egli disse : — Sì , signore .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'How could he help being glad?
+    TARGET: — E come non esser contento!
+ PREDICTED: — Come mai non potrebbe far vedere ?
+---------------------------------------------------------------------------------------------
+Processing Epoch 15: 100%|███████████████████| 3638/3638 [16:56<00:00,  3.58it/s, loss=2.965]
+---------------------------------------------------------------------------------------------
+    SOURCE: When we got back, it was after moonrise: a pony, which we knew to be the surgeon's, was standing at the garden door.
+    TARGET: Quando giungemmo a casa, la luna era alta. Un cavallo, che riconoscemmo per quello del medico, era legato al cancello del giardino.
+ PREDICTED: Quando ci fermammo , la sala era bianca e un bel marmo che doveva essere , la porta del giardino .
+---------------------------------------------------------------------------------------------
+    SOURCE: Of this preparation a tolerably abundant plateful was apportioned to each pupil.
+    TARGET: Ogni alunna ebbe una porzione assai abbondante.
+ PREDICTED: Per questa lettura fu un certo genere di dolore , e ogni volta i loro abiti .
+---------------------------------------------------------------------------------------------
+Processing Epoch 16: 100%|███████████████████| 3638/3638 [16:54<00:00,  3.58it/s, loss=2.763]
+---------------------------------------------------------------------------------------------
+    SOURCE: 'How well you put it, mama!
+    TARGET: — Come l’avete detto bene, mamma!
+ PREDICTED: — Come state bene , maman , la madre .
+---------------------------------------------------------------------------------------------
+    SOURCE: On the first of these occasions, she perpetrated the attempt to burn me in my bed; on the second, she paid that ghastly visit to you.
+    TARGET: "La prima cercò di bruciarmi nel letto, la seconda entrò nella vostra camera.
+ PREDICTED: In principio , lei , quegli abitanti vi si con immensa quantità di provvigioni .
+---------------------------------------------------------------------------------------------
+Processing Epoch 17: 100%|███████████████████| 3638/3638 [16:56<00:00,  3.58it/s, loss=2.618]
+---------------------------------------------------------------------------------------------
+    SOURCE: The Prince moved away, trying not to show how absurd he thought the whole farce.
+    TARGET: Il principe si allontanò, cercando di non far notare quanto per lui fosse ridicola tutta quella commedia.
+ PREDICTED: Il principe si mosse , non desiderando mostrare a tutto il progresso del cervello .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'And the clover?'
+    TARGET: — E il trifoglio?
+ PREDICTED: — E il trifoglio ?
+---------------------------------------------------------------------------------------------
+Processing Epoch 18: 100%|███████████████████| 3638/3638 [16:55<00:00,  3.58it/s, loss=2.298]
+---------------------------------------------------------------------------------------------
+    SOURCE: I am sure most people would have thought him an ugly man; yet there was so much unconscious pride in his port; so much ease in his demeanour; such a look of complete indifference to his own external appearance; so haughty a reliance on the power of other qualities, intrinsic or adventitious, to atone for the lack of mere personal attractiveness, that, in looking at him, one inevitably shared the indifference, and, even in a blind, imperfect sense, put faith in the confidence.
+    TARGET: Quasi tutti lo avrebbero giudicato brutto, ma aveva nel portamento tanta fierezza naturale, tanta sicurezza nelle maniere, pareva curarsi tanto poco della mancanza di bellezza ed esser così intimamente convinto che le sue qualità compensavano largamente un'attrattiva tutta esteriore, che, guardandolo, si divideva la sua indifferenza o quasi quasi anche la sua convinzione.
+ PREDICTED: È probabile che la gente migliore fosse un uomo affettuoso , che fosse molto debole ; ma in quel momento c ' era tanto nobile , a leggere l ' indifferenza di lui e cercava di , di non ricevere quell ' aspetto che verso la nobile e di lui , pur pur non verso di lui , né movimenti neppure l ' indifferenza , né movimenti neppure le sofferenze , e lo splendore che lo sguardo di una attrattiva di una attrattiva che lo impediva d ' ebano .
+---------------------------------------------------------------------------------------------
+    SOURCE: 'Yes, ma'am!
+    TARGET: — Sissignora.
+ PREDICTED: — Sì , signora .
+---------------------------------------------------------------------------------------------
+Processing Epoch 19: 100%|███████████████████| 3638/3638 [16:53<00:00,  3.59it/s, loss=2.477]
+---------------------------------------------------------------------------------------------
+    SOURCE: "What a beautiful room!" I exclaimed, as I looked round; for I had never before seen any half so imposing.
+    TARGET: — Che bella stanza! — esclamai, guardando intorno. — È la sala da pranzo; ho aperto la finestra per farvi entrare un po' d'aria.
+ PREDICTED: — Che bella stanza ! — esclamai , guardando a guardare , perché non avevo visto mai nessuno .
+---------------------------------------------------------------------------------------------
+    SOURCE: Mr. Briggs calmly took a paper from his pocket, and read out in a sort of official, nasal voice:--
+    TARGET: Il signor Briggs tolse di tasca un foglio e lesse con voce nasale ciò che segue:
+ PREDICTED: Il signor Briggs prese a tremare e a un palco , lesse nella sua piccola voce , malato , con gli abiti .
